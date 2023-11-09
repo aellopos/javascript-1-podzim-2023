@@ -67,7 +67,7 @@ Vytvořte si repozitář ze šablony [cviceni-hod-minci](https://github.com/Czec
 1. Kromě změny textu ještě přidejte prvku `.mince` druhou třídu `mince--orel` nebo `mince--panna` opět podle hodnoty v proměnné `padlOrel`.
 1. Znovu několikrát vyzkoušejte, že obrázek mince odpovídá textu pod ním.
 
-[hod](../images/hod.gif)
+![hod](../images/hod.gif)
 
 
 <details>
@@ -137,7 +137,7 @@ Vytvořte si repozitář ze šablony [cviceni-nekupto](https://github.com/Czechi
 
 Na konci by stránka v prohlížeči měla vypadat jako na obrázku níže:
 
-[nekup to](../images/screen-nekupto.png)
+![nekup to](../images/screen-nekupto.png)
 
 <details>
 <summary><b>Řešení</b></summary>
