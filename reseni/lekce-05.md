@@ -10,7 +10,7 @@ Vytvořte si repozitář ze šablony [cviceni-novinky](https://github.com/Czechi
 
 Na konci by stránka v prohlížeči měla vypadat jako na obrázku níže:
 
-[novinky](../images/screen-novinky.png)
+![novinky](../images/screen-novinky.png)
 
 <details>
 <summary><b>Řešení</b></summary>
