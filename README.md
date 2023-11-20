@@ -15,5 +15,5 @@
 | 4  | 19.10.2023 | Práce s řetězci, podmínky | https://kodim.cz/vyvoj-webu/js1/lekce/retezce-podminky/vlastnosti-metody | [rešení](./reseni/lekce-04.md)
 | 5  | 02.11.2023 | DOM a innerHTML | https://kodim.cz/vyvoj-webu/js1/lekce/dom-innerhtml/dom | [rešení](./reseni/lekce-05.md)
 | 6  | 09.11.2023 |  Knihovny a vlastní funkce | https://kodim.cz/vyvoj-webu/js1/lekce/knihovny-vlastni-funkce/knihovny | [řešení](./reseni/lekce-06.md)
-| 7  | 16.11.2023 |  Funkce a obory platnosti | https://kodim.cz/vyvoj-webu/js1/lekce/funkce-obory/null-undefined | [rešení](./reseni/lekce-06.md)
+| 7  | 16.11.2023 |  Funkce a obory platnosti | https://kodim.cz/vyvoj-webu/js1/lekce/funkce-obory/null-undefined | [rešení](./reseni/lekce-07.md)
 
