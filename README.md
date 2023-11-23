@@ -16,5 +16,5 @@
 | 5  | 02.11.2023 | DOM a innerHTML | https://kodim.cz/vyvoj-webu/js1/lekce/dom-innerhtml/dom | [rešení](./reseni/lekce-05.md) | -
 | 6  | 09.11.2023 |  Knihovny a vlastní funkce | https://kodim.cz/vyvoj-webu/js1/lekce/knihovny-vlastni-funkce/knihovny | [řešení](./reseni/lekce-06.md) | - 
 | 7  | 16.11.2023 |  Funkce a obory platnosti | https://kodim.cz/vyvoj-webu/js1/lekce/funkce-obory/null-undefined | [rešení](./reseni/lekce-07.md) | -
-| 8  | 23.11.2023 |  Opakování DOM a eventy | https://kodim.cz/vyvoj-webu/js1/lekce/funkce-arg-udalosti/udalosti https://kodim.cz/vyvoj-webu/js1/lekce/udalosti-formulare/target | - | [zde](https://github.com/aellopos/javascript-1-lekce-8)
+| 8  | 23.11.2023 |  Opakování DOM a eventy | https://kodim.cz/vyvoj-webu/js1/lekce/funkce-arg-udalosti/udalosti https://kodim.cz/vyvoj-webu/js1/lekce/udalosti-formulare/target | [rešení](./reseni/lekce-08.md) | [zde](https://github.com/aellopos/javascript-1-lekce-8)
 
