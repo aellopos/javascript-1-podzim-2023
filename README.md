@@ -18,5 +18,5 @@
 | 07  | 16.11.2023 |  Funkce a obory platnosti | https://kodim.cz/vyvoj-webu/js1/lekce/funkce-obory/null-undefined | [rešení](./reseni/lekce-07.md) | -
 | 08  | 23.11.2023 |  Opakování DOM a eventy | https://kodim.cz/vyvoj-webu/js1/lekce/funkce-arg-udalosti/udalosti https://kodim.cz/vyvoj-webu/js1/lekce/udalosti-formulare/target | [rešení](./reseni/lekce-08.md) | [zde](https://github.com/aellopos/javascript-1-lekce-8)
 | 09  | 28.11.2023 |  Opakování objekty, pole, pole a funkce, cyklus While a For | - | - | [zde](https://github.com/aellopos/javascript-1-lekce-9)
-| 10  | 30.11.2023 |  Funkce jako argumenty, Anonymní fuknce, Vstup pomocí formuláře, Událost input a change | https://kodim.cz/vyvoj-webu/js1/lekce/udalosti-formulare/vstup-formulare https://kodim.cz/vyvoj-webu/js1/lekce/funkce-arg-udalosti/funkce-arg | - | [zde](https://github.com/aellopos/javascript-1-lekce-9)
+| 10  | 30.11.2023 |  Funkce jako argumenty, Anonymní fuknce, Vstup pomocí formuláře, Událost input a change | https://kodim.cz/vyvoj-webu/js1/lekce/udalosti-formulare/vstup-formulare https://kodim.cz/vyvoj-webu/js1/lekce/funkce-arg-udalosti/funkce-arg | - | -
 
